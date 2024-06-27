@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=ildihoxhallari&label=Profile%20views&color=0e75b6&style=flat" alt="ildihoxhallari" />
   <img alt="Static Badge" src="https://img.shields.io/badge/Role-Senior_Partner-blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/Member Since-2022-blue">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Team-Full_Stack_Development-blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Team-Product_Development-blue">
 </p>
 
 ## What I Do
