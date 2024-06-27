@@ -44,6 +44,6 @@ As a data scientist, my passion lies in leveraging advanced analytics and predic
 
 - 💬 Ask me about **Machine Learning, Python, Data Science, Sports**.
 
-- 📫 Reach me here: **hoxhallari_ildi@outlook.com**.
+- 📫 Reach me via email [here](mailto:hoxhallari_ildi@outlook.com).
 
 Feel free to reach out any questions, concerns, or exciting ideas you'd like to discuss. I'm eager to collaborate, let's start a conversation!
