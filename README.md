@@ -40,7 +40,7 @@ As a data scientist, my passion lies in leveraging advanced analytics and predic
 
 - 👨‍💻 Read more about my work [here](http://betterbettorpicks.github.io).
 
-- 📝 I regularly write articles on our [website](http://betterbettorpicks.github.io).
+- 📝 I regularly write articles on our website [here](http://betterbettorpicks.github.io).
 
 - 💬 Ask me about **Machine Learning, Python, Data Science, Sports**.
 
