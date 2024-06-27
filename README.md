@@ -2,13 +2,12 @@
 <h3 align="center">Senior full-stack developer and data scientist at Better Bettor.</h3>
 
 ![4642653](https://github.com/IldiHoxhallari/IldiHoxhallari/assets/112041644/99a1b0fc-a05a-4bd9-9563-d9557970fe2e)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ildihoxhallari&label=Profile%20views&color=0e75b6&style=flat" alt="ildihoxhallari" /> </p>
 
 ## What I Do
 All my work spans the full spectrum of full-stack web development and data science, from laying the groundwork with pipeline creation and design to executing product implementation. This comprehensive approach ensures that every facet of every process is meticulously crafted to uphold the highest standards of quality and functionality. I specialize in building scalable and secure back-end systems, developing RESTful APIs, and optimizing database performance to deliver high-performance applications. On the front end, I excel in translating design mockups into responsive and user-friendly interfaces using HTML, CSS, and JavaScript frameworks like React and Vue.js. Throughout my career, I have emphasized collaboration, leveraging version control systems like Git, and conducting rigorous testing to maintain code quality and reliability. With a commitment to continuous learning and innovation, I stay abreast of industry trends to deliver cutting-edge solutions that exceed client expectations and enhance user experiences. 
 
 As a data scientist, my passion lies in leveraging advanced analytics and predictive modeling to drive insights and innovation within the realm of sports. I specialize in harnessing large and complex datasets to develop models that forecast outcomes, analyze player performance, and optimize betting strategies. My work spans the entire spectrum of sports analytics, from building predictive models that anticipate game results and player injuries to developing tools for optimized betting and risk analysis. I thrive on the challenge of extracting meaningful patterns from data to help clients make informed decisions. Through my expertise in data science and machine learning, I aim to push the boundaries of what is possible in sports analysis, continually seeking new ways to integrate cutting-edge technologies and methodologies into the field. My goal is to contribute to the evolution of sports modeling by providing actionable insights that drive success both on and off the field.
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ildihoxhallari&label=Profile%20views&color=0e75b6&style=flat" alt="ildihoxhallari" /> </p>
 
 ## Languages and Tools
 <p align="left">
