@@ -1,7 +1,9 @@
+![image](https://github.com/IldiHoxhallari/IldiHoxhallari/assets/112041644/1a607ea9-1b72-4156-88f0-617e68868f91)
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ildi Hoxhallari.
 =======================================================================================================================================
 
-I am a full-stack developer and data scientist for Better Bettor.
+I am a full-stack developer and data scientist at Better Bettor.
 ---------------------------------------------------------------------
 
 All my work spans the full spectrum of full-stack development and data science, from laying the groundwork with pipeline creation and design to executing product implementation. This comprehensive approach ensures that every facet of the project is meticulously crafted to uphold the highest standards of quality and functionality. During the design phase, I meticulously align every component with the overarching vision, ensuring seamless integration within the broader architecture. Throughout implementation, I oversee each stage to ensure smooth integration and optimal performance. This end-to-end involvement not only guarantees a cohesive and well-executed final product but also allows for agile adjustments and enhancements across the entire development lifecycle, particularly in data science and machine learning applications.
